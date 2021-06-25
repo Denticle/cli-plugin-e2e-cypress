@@ -1,4 +1,4 @@
-# @vue/cli-plugin-e2e-cypress
+# @vue/cli-plugin-e2e-cypress   ---test
 
 > e2e-cypress plugin for vue-cli
 
